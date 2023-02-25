@@ -1,0 +1,128 @@
+﻿.card {
+    background-color: darkred;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+.header {
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+}
+
+.marg {
+    color: red;
+}
+
+.banner {
+    background-color: darkred;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width:100%;
+}
+
+
+
+
+
+h5 {
+    font-size: 12px;
+}
+
+.card-header {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+form {
+    background-color: darkred;
+}
+
+.card-body-m {
+    margin-top: 20px;
+    margin-left: 250px;
+    background-color: darkred;
+}
+
+.imgbtn {
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.form-control {
+    border-radius: 25px;
+    width: 100%;
+    padding: 2px;
+}
+
+.card-body {
+    background-color: azure;
+}
+
+.col {
+    text-align: center;
+}
+
+.card-footer {
+    text-align: center;
+    
+}
+
+
+.full {
+    width: 100%;
+}
+
+.border {
+    border: 2px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.srch {
+    border: 2px thin solid;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 1px;
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    font-size: medium;
+}
+
+h3, p {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+
+.footer2 {
+    background-color: darkgreen;
+    text-align: center;
+    color: yellow;
+    height: 60px;
+    padding: 10px;
+}
+
+.form-label{
+    text-align:center;
+}
